@@ -1,13 +1,9 @@
 export default function Item({ name, quantity, category }) {
   return (
-    <li className="flex justify-between items-center bg-white p-4 border rounded-lg shadow-sm">
-      <div>
-        <p className="font-bold">{name}</p>
-        <p className="text-sm text-gray-600 capitalize">
-          Category: {category}
-        </p>
-      </div>
-      <span className="font-semibold">x{quantity}</span>
+    <li className="border border-gray-300 rounded-md p-4 bg-white">
+      <p className="font-semibold">{name}</p>
+      <p>Quantity: {quantity}</p>
+      <p className="capitalize">Category: {category}</p>
     </li>
   );
 }
