@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Milk, 4 L 🥛",
+    "quantity": 1,
+    "category": "dairy"
+  },
+  {
+    "id": 2,
+    "name": "Bread 🍞",
+    "quantity": 2,
+    "category": "bakery"
+  },
+  {
+    "id": 3,
+    "name": "Eggs, 12 pack 🥚",
+    "quantity": 1,
+    "category": "dairy"
+  },
+  {
+    "id": 4,
+    "name": "Bananas 🍌",
+    "quantity": 6,
+    "category": "produce"
+  },
+  {
+    "id": 5,
+    "name": "Broccoli 🥦",
+    "quantity": 3,
+    "category": "produce"
+  },
+  {
+    "id": 6,
+    "name": "Chicken breast, 1 kg 🍗",
+    "quantity": 1,
+    "category": "meat"
+  },
+  {
+    "id": 7,
+    "name": "Pasta 🍝",
+    "quantity": 2,
+    "category": "dry goods"
+  },
+  {
+    "id": 8,
+    "name": "Apples 🍎",
+    "quantity": 5,
+    "category": "produce"
+  }
+]
